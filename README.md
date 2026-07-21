@@ -64,4 +64,4 @@ This repository is updated regularly as I learn new concepts and solve more prog
 
 ---
 
-*"Consistency beats intensity."*
+*"Consistency beats intensity..."*
