@@ -1,4 +1,4 @@
-# 🐍 Python Fundamentals
+# 🐍 Python Fundamentals (in the master branch)
 
 Welcome to my Python practice repository!
 
